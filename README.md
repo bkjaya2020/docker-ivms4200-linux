@@ -24,6 +24,9 @@ Then the desktop will appear on the web browser
 
 On the desktop, right click the mouse to get the fluxbox menu
 
+<img src="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux/master/Screenshot%20from%202020-02-15%2011-27-30.png" alt="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux/master/Screenshot%20from%202020-02-15%2011-27-30.png" class="shrinkToFit" width="625" height="520">
+
+
 On the menu go to sub menus and ckick  Applications>Shells>Bash
 
 Now the configuration panel of ivms4200 will appear so that you can add your Hikvision cameras.
