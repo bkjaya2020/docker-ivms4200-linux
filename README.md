@@ -42,7 +42,7 @@ On the terminal enter
 
 Then the timezone file is opened 
 
-Go to the top line of the file ,  press insert key or your key board and enter your timezone ( ie    Asia/Colombo)
+Go to the top line of the file ,  press insert key on your key board and enter your timezone ( ie    Asia/Colombo)
 
 Then press the Esc key and Shift :x to save & quit  the file
 
