@@ -12,6 +12,7 @@ RUN apt install -y xfce4-terminal \
     && apt install -y vim \
     && apt -y autoremove
 COPY ivms /ivms
+RUN chmod 777 /ivms/iVMS-4200
 COPY bash.bashrc /etc/bash.bashrc
 COPY ivmswine.sh /usr/bin/ivmswine.sh
 RUN unlink /etc/localtime
