@@ -15,6 +15,7 @@ COPY ivms /ivms
 RUN chmod 777 /ivms/iVMS-4200
 COPY bash.bashrc /etc/bash.bashrc
 COPY ivmswine.sh /usr/bin/ivmswine.sh
+RUN chmod 777 /usr/bin/ivmswine.sh
 RUN unlink /etc/localtime
 EXPOSE 8080
 CMD ["/usr/bin/supervisord"]
