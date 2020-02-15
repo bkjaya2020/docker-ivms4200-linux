@@ -20,6 +20,8 @@ On the Ubuntu terminal
 
 Then the desktop will appear on the web browser
 
+<img src="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux/master/Screenshot%20from%202020-02-15%2009-42-22.png" alt="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux/master/Screenshot%20from%202020-02-15%2009-42-22.png" class="shrinkToFit" width="625" height="520">
+
 On the desktop, right click the mouse to get the fluxbox menu
 
 On the menu go to sub menus and ckick  Applications>Shells>Bash
