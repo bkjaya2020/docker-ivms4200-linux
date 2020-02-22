@@ -14,7 +14,7 @@ Refer:- https://hub.docker.com/r/bkjaya1952/docker-ivms4200-linux
 
 On the Ubuntu terminal
 
-<code>sudo docker create -t -p 8008:8080 --name ivms bkjaya1952/docker-ivms4200-linux</code>
+<code>sudo docker create -t -p 8008:8080 --name ivms --privileged=true bkjaya1952/docker-ivms4200-linux</code>
 
 <code>sudo docker start ivms</code>
 
